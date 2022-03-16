@@ -1,6 +1,6 @@
 {
   "name": "vue3-browser-compiler-yx",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/compiler-sfc.cjs.js",
   "types": "dist/compiler-sfc.d.ts",
   "files": [
@@ -31,9 +31,9 @@
     "@vue/compiler-ssr": "3.0.11",
     "@vue/shared": "3.0.11",
     "estree-walker": "^2.0.1",
-    "hash-sum": "^2.0.0",
-    "lru-cache": "^5.1.1",
-    "magic-string": "^0.25.7",
+    "hash-sum": "2.0.0",
+    "lru-cache": "5.1.1",
+    "magic-string": "0.25.7",
     "merge-source-map": "^1.1.0",
     "postcss": "^8.1.10",
     "postcss-modules": "^4.0.0",
